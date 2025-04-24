@@ -19,10 +19,12 @@ Activity C: 10:00 - 11:00
 Activity D: 10:30 - 11:30   
 Activity E: 11:00 - 12:00   
    
-- Sort Activities by End Time:   
+- Sort Activities by End Time:
+  
 Sort the list of activities based on their end times in ascending order.
    
-- Select Activities Using the Greedy Approach:      
+- Select Activities Using the Greedy Approach:
+
 Initialize your selection by choosing the first activity from the sorted list.   
 Iterate through the remaining activities and select each one that starts after the last selected activity ends.    
 Continue this process until you can no longer select any additional activities.   
