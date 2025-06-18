@@ -1,7 +1,5 @@
-# greedy project
+# Maximizing Participation in Activities   
 
-
-### Maximizing Participation in Activities   
 
 ### Objective   
 The goal of this project is to apply the greedy algorithm to maximize the number of non-overlapping activities you can participate in during a given time frame.
@@ -21,13 +19,10 @@ Activity E: 11:00 - 12:00
    
 - Sort Activities by End Time:
   
-Sort the list of activities based on their end times in ascending order.
    
 - Select Activities Using the Greedy Approach:
 
-Initialize your selection by choosing the first activity from the sorted list.   
-Iterate through the remaining activities and select each one that starts after the last selected activity ends.    
-Continue this process until you can no longer select any additional activities.   
+
    
 ### Expected Output   
 
