@@ -33,7 +33,6 @@ Activity B: 9:30 - 10:30
 Activity C: 10:00 - 11:00
 Activity D: 10:30 - 11:30
 Activity E: 11:00 - 12:00
-Sorted List of Activities by End Time:
 
 
 Sorted Activities:
