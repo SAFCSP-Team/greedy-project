@@ -17,10 +17,10 @@ Activity C: 10:00 - 11:00
 Activity D: 10:30 - 11:30   
 Activity E: 11:00 - 12:00   
    
-- Sort Activities by End Time:
+- Sort Activities by End Time.
   
    
-- Select Activities Using the Greedy Approach:
+- Select Activities Using the Greedy Approach.
 
 
    
