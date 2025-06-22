@@ -11,11 +11,11 @@ You are provided with a list of activities, each defined by a start time and an 
 - List Activities with Start and End Times:
 
 Create a list of activities with their respective start and end times. For example:   
-Activity A: 9:00 - 10:00   
-Activity B: 9:30 - 10:30   
+Activity A: 9:00 - 10:00    
 Activity C: 10:00 - 11:00   
-Activity D: 10:30 - 11:30   
+Activity B: 9:30 - 10:30   
 Activity E: 11:00 - 12:00   
+Activity D: 10:30 - 11:30  
    
 - Sort Activities by End Time.
   
@@ -29,10 +29,10 @@ Activity E: 11:00 - 12:00
 ``` java
 Input List of Activities:
 Activity A: 9:00 - 10:00
-Activity B: 9:30 - 10:30
 Activity C: 10:00 - 11:00
-Activity D: 10:30 - 11:30
+Activity B: 9:30 - 10:30
 Activity E: 11:00 - 12:00
+Activity D: 10:30 - 11:30
 
 
 Sorted Activities:
